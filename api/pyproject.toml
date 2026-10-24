@@ -1,11 +1,10 @@
 [project]
 name = "api"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python experiments and glossary data for TermTutor"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "langchain>=1.4.7",
     "langchain-ollama>=1.1.0",
 ]
-
